@@ -18,5 +18,6 @@
 <li><strong>Research:</strong> Researchers can use this tool to study the distribution and location of phone numbers for data analysis.</li>
 <li><strong>Security and Anti-Fraud Measures:</strong> Organizations can employ this technology to enhance security measures by verifying the locations of phone numbers in use.</li>
 
-
+## Result (Output of the project):
+![Alt Text](https://github.com/VidushiRastogi15/Phone-Number-Location-Tracking-with-Python/blob/main/download.jpg)
 
